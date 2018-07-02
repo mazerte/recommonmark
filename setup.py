@@ -15,7 +15,7 @@ setup(
     name='recommonmark',
     version=recommonmark.__version__,
     install_requires=[
-        'commonmark>=0.7.3',
+        'commonmark==0.5.4',
         'docutils>=0.11',
         'sphinx>=1.3.1',
     ],
